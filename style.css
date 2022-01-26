@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(5, 1, 41);
+}
+
+p {
+    color:white ; 
+    font-size: 150%;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    font-size: 150%;
+    font-style: italic;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 1500px;
+    height: 600px;
+}
+
+
+
+
+
+
+
+
