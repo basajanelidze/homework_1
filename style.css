@@ -31,6 +31,68 @@ img {
     width: 1500px;
     height: 600px;
 }
+/*auth
+
+.auth-from-container {
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+label {
+    color:white;
+} */
+
+ul {  
+    display: table;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 35px;
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+li a {
+    display: block;
+    padding: 30px 50px;
+    color:red;
+    text-align: center;
+}
+
+li {
+    float: left;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+table {
+    color: white;
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    border: 1px solid white;
+    padding: 30px;
+}
+
+.test { 
+    background-color:orange;
+    width: 500px;
+    height: 250px;
+    border: 3px solid white;
+    margin-left: 170px;
+}
+
+.container {
+    display: flex;
+    margin-top: 20px;
+    
+}
+
 
 
 
