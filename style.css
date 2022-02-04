@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(5, 1, 41);
 }
@@ -19,6 +23,12 @@ h1 {
     text-align: center;
     color: white;
     font-size: 70px;
+
+}
+
+#heder-h1 { 
+    color: blueviolet;        
+
 
 }
 
@@ -88,9 +98,12 @@ table th {
 }
 
 .container {
-    display: flex;
+   /* display: inline-block;*/
     margin-top: 20px;
     
+}
+.test-1 {
+    display: inline-block;
 }
 
 
