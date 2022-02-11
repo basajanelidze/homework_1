@@ -1,5 +1,13 @@
 *{
     box-sizing: border-box;
     font-family: 'BPG Nateli Mtavruli' ;
+    margin: 0 auto;
+}
 
+a {
+    text-decoration: none;   
+}
+
+a:hover {
+    text-decoration: underline;  
 }

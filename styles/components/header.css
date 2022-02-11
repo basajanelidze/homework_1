@@ -1,0 +1,17 @@
+@import './variables.css';
+
+header {
+    height: 60px;
+    background-color: var(--header_color);
+}
+
+header a {
+    color:var(--paragraph_color);
+    font-weight: bold;
+}
+
+header nav > div {
+    gap: 0 15px;
+}
+
+
