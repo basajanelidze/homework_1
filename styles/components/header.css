@@ -13,5 +13,9 @@ header a {
 header nav > div {
     gap: 0 15px;
 }
+.logo {
+    width: 45px;
+    height: 45px;
+}
 
 

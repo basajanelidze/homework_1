@@ -1,4 +1,6 @@
 :root {
     --paragraph_color: #fff;
-    --header_color: darkblue;
+    --header_color: black;
+    --btn_color: #4CAF50;
+    --border_color: tomato;
 }

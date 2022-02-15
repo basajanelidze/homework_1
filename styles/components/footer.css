@@ -1,0 +1,11 @@
+footer p {
+    text-align: center;
+    color: var(--paragraph_color);
+    padding-top: 17px;
+    
+}
+footer {
+    background-color: var(--header_color);
+    height: 65px ;
+     
+}
