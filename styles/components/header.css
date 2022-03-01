@@ -13,9 +13,16 @@ header a {
 header nav > div {
     gap: 0 15px;
 }
+
 .logo {
     width: 45px;
     height: 45px;
+}
+
+@media screen and (max-width: 768px) {
+    .hidden{
+        display: none;
+    }
 }
 
 
